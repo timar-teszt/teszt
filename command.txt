@@ -1,1 +1,5 @@
 git diff HEAD~2 filename - csekkolja, hogy a fajl miben valtozott a 2-vel korabbi kommithoz kepest 
+git bisect start - elinditja a diszekciozast
+git bisect bad - megmondja, melyik a rossz
+git bisect good - megmondja, hogy melyik a jo
+tovabbi git bisect good-ok a legutolso good es a bad koze rakjak a HEAD-et es scekkolni lehet, hogy hol a hiba
