@@ -6,12 +6,5 @@ tovabbi git bisect good-ok a legutolso good es a bad koze rakjak a HEAD-et es sc
 
 
 git blame - megmutatja egy fajl tartalmat soronkent, ki szerkesztette es mikor
-<<<<<<< Updated upstream
-git checkout master
-=======
 
-ez most egy masik stash parancs, lassuk, mit csinal
-
-
-git stash teszt
->>>>>>> Stashed changes
+ELSO STASH parancs
