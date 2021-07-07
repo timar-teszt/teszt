@@ -3,3 +3,6 @@ git bisect start - elinditja a diszekciozast
 git bisect bad - megmondja, melyik a rossz
 git bisect good - megmondja, hogy melyik a jo
 tovabbi git bisect good-ok a legutolso good es a bad koze rakjak a HEAD-et es scekkolni lehet, hogy hol a hiba
+
+
+git blame - megmutatja egy fajl tartalmat soronkent, ki szerkesztette es mikor
