@@ -1,0 +1,1 @@
+git diff HEAD~2 filename - csekkolja, hogy a fajl miben valtozott a 2-vel korabbi kommithoz kepest 
